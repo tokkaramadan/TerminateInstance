@@ -1,0 +1,14 @@
+c:\users\tokka\documents\visual studio 2015\Projects\terminate_instance\terminate_instance\bin\Debug\terminate_instance.exe.config
+C:\Users\tokka\Documents\Visual Studio 2015\Projects\terminate_instance\terminate_instance\bin\Debug\terminate_instance.exe
+C:\Users\tokka\Documents\Visual Studio 2015\Projects\terminate_instance\terminate_instance\bin\Debug\terminate_instance.pdb
+C:\Users\tokka\Documents\Visual Studio 2015\Projects\terminate_instance\terminate_instance\bin\Debug\AWSSDK.Core.dll
+C:\Users\tokka\Documents\Visual Studio 2015\Projects\terminate_instance\terminate_instance\bin\Debug\AWSSDK.EC2.dll
+C:\Users\tokka\Documents\Visual Studio 2015\Projects\terminate_instance\terminate_instance\bin\Debug\AWSSDK.S3.dll
+C:\Users\tokka\Documents\Visual Studio 2015\Projects\terminate_instance\terminate_instance\bin\Debug\AWSSDK.SimpleDB.dll
+C:\Users\tokka\Documents\Visual Studio 2015\Projects\terminate_instance\terminate_instance\bin\Debug\AWSSDK.Core.xml
+C:\Users\tokka\Documents\Visual Studio 2015\Projects\terminate_instance\terminate_instance\bin\Debug\AWSSDK.EC2.xml
+C:\Users\tokka\Documents\Visual Studio 2015\Projects\terminate_instance\terminate_instance\bin\Debug\AWSSDK.SimpleDB.xml
+C:\Users\tokka\Documents\Visual Studio 2015\Projects\terminate_instance\terminate_instance\bin\Debug\AWSSDK.S3.xml
+C:\Users\tokka\Documents\Visual Studio 2015\Projects\terminate_instance\terminate_instance\obj\Debug\terminate_instance.csprojResolveAssemblyReference.cache
+C:\Users\tokka\Documents\Visual Studio 2015\Projects\terminate_instance\terminate_instance\obj\Debug\terminate_instance.exe
+C:\Users\tokka\Documents\Visual Studio 2015\Projects\terminate_instance\terminate_instance\obj\Debug\terminate_instance.pdb
